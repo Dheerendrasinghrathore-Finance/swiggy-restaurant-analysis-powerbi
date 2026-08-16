@@ -35,6 +35,7 @@ Analyze restaurant data to identify trends in restaurant distribution, cuisines,
 📊 Interactive year and country filters
 
 🗺️ Geographical restaurant visualization
+
 **Tools Used:**
 
 Power BI

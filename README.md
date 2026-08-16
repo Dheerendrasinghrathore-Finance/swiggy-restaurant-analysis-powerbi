@@ -46,5 +46,10 @@ DAX
 
 Microsoft Excel
 
+# Swiggy Restaurant Analysis Dashboard
+
+## Dashboard Preview
+
+![Swiggy Restaurant Analysis Dashboard](Dashboard/Swiggy_Dashboard.png)
 
 

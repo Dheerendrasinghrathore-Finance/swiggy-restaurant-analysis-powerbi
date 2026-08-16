@@ -50,6 +50,6 @@ Microsoft Excel
 
 ## Dashboard Preview
 
-![Swiggy Restaurant Analysis Dashboard](Dashboard/Swiggy_Dashboard.png)
+![Swiggy Restaurant Analysis Dashboard](Dashboard/Swiggy_Dashboard.png.png)
 
 
